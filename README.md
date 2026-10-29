@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg?v=2" alt="Woojin Nam · AI Agent · Ontology Engineer" width="100%"/>
+  <img src="assets/banner.svg" alt="Woojin Nam · AI Agent · Ontology Engineer" width="100%"/>
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ AI Agent와 온톨로지로 **회사의 일하는 규칙을 구조화하고, 그
 
 #### Claude Code, all in
 
-<img src="assets/claude-code.svg?v=2" alt="Claude Code 멀티 에이전트 실행 화면 (시연)" width="100%"/>
+<img src="assets/terminal.svg" alt="Claude Code 멀티 에이전트 실행 화면 (시연)" width="100%"/>
 
 1인 회사의 계획서 · 웹 · SaaS 납품을 Claude Code 하네스 하나로 돌립니다. → [Agent Harness](https://github.com/TreeJin99/agent-harness)
 
