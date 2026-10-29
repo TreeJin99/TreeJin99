@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://jigeum.info"><img src="https://img.shields.io/badge/jigeum.info-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="jigeum.info"/></a> <a href="mailto:jigeumlab@gmail.com"><img src="https://img.shields.io/badge/Email-D97757?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://www.suppofit.com"><img src="https://img.shields.io/badge/Suppofit-10B981?style=for-the-badge&logo=rocket&logoColor=white" alt="Suppofit"/></a> <img src="https://komarev.com/ghpvc/?username=TreeJin99&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="profile views"/>
+  <a href="https://jigeum.info"><img src="https://img.shields.io/badge/jigeum.info-1F1A17?style=for-the-badge&logo=googlechrome&logoColor=white" alt="jigeum.info"/></a> <a href="mailto:jigeumlab@gmail.com"><img src="https://img.shields.io/badge/Email-E8622A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://www.suppofit.com"><img src="https://img.shields.io/badge/Suppofit-10B981?style=for-the-badge&logo=rocket&logoColor=white" alt="Suppofit"/></a> <img src="https://komarev.com/ghpvc/?username=TreeJin99&style=for-the-badge&color=C4460F&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SaaS-4%20live-D97757?style=flat-square" alt="SaaS"/> <img src="https://img.shields.io/badge/Client%20web-6%20live-0EA5E9?style=flat-square" alt="Client web"/> <img src="https://img.shields.io/badge/%EC%A0%95%EB%B6%80%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85-7%EA%B1%B4%20%EC%88%98%EC%A3%BC-10B981?style=flat-square" alt="정부지원사업"/> <img src="https://img.shields.io/badge/%EC%88%98%EC%83%81-10%ED%9A%8C-F59E0B?style=flat-square" alt="수상"/> <img src="https://img.shields.io/badge/%EA%B0%95%EC%97%B0%C2%B7%EA%B5%90%EC%9C%A1-21%ED%9A%8C-8B5CF6?style=flat-square" alt="강연·교육"/>
+  <img src="https://img.shields.io/badge/SaaS-4%20live-E8622A?style=flat-square" alt="SaaS"/> <img src="https://img.shields.io/badge/Client%20web-6%20live-C4460F?style=flat-square" alt="Client web"/> <img src="https://img.shields.io/badge/%EC%A0%95%EB%B6%80%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85-7%EA%B1%B4%20%EC%88%98%EC%A3%BC-F08A4B?style=flat-square" alt="정부지원사업"/> <img src="https://img.shields.io/badge/%EC%88%98%EC%83%81-10%ED%9A%8C-B23E0D?style=flat-square" alt="수상"/> <img src="https://img.shields.io/badge/%EA%B0%95%EC%97%B0%C2%B7%EA%B5%90%EC%9C%A1-21%ED%9A%8C-D4561C?style=flat-square" alt="강연·교육"/>
 </p>
 
 ---

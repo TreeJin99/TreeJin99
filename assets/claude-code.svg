@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="540" viewBox="0 0 1000 540" role="img" aria-label="Claude Code multi-agent run">
 <style>text{font-family:'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'D2Coding', monospace;font-size:15px;white-space:pre;fill:#E6E8EE}
-.cur{fill:#D97757;animation:blink 1s steps(2) infinite}
+.cur{fill:#E8622A;animation:blink 1s steps(2) infinite}
 @keyframes blink{0%{opacity:1}50%{opacity:0}}
 @keyframes spin{to{transform:rotate(360deg)}}
 @keyframes l0{0%,2.86%{opacity:0;transform:translateY(6px)}5.36%,96%{opacity:1;transform:none}100%{opacity:0}}
@@ -24,14 +24,14 @@
 @keyframes l8{0%,70.71%{opacity:0;transform:translateY(6px)}73.21%,96%{opacity:1;transform:none}100%{opacity:0}}
 .l8{animation:l8 14.0s ease-out infinite}
 @media (prefers-reduced-motion:reduce){text,rect{animation:none!important;opacity:1!important}}</style>
-<defs><linearGradient id="tb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#151A23"/><stop offset="1" stop-color="#0C1017"/></linearGradient></defs>
+<defs><linearGradient id="tb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#211814"/><stop offset="1" stop-color="#140E0B"/></linearGradient></defs>
 <rect width="1000" height="540" rx="16" fill="url(#tb)"/>
 <rect x="0.5" y="0.5" width="999" height="539" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
 <circle cx="28" cy="26" r="6" fill="#FF5F57"/><circle cx="48" cy="26" r="6" fill="#FEBC2E"/><circle cx="68" cy="26" r="6" fill="#28C840"/>
 <text x="500.0" y="31" text-anchor="middle" fill="#6B7280" style="font-size:13px">claude · galrae · multi-agent</text>
 <line x1="0" y1="50" x2="1000" y2="50" stroke="#ffffff" stroke-opacity="0.06"/>
 <text x="48" y="92" class="l0"><tspan fill="#86EFAC">~/galrae</tspan> <tspan fill="#9AA1AE">❯</tspan> claude</text>
-<text x="48" y="132" class="l1"><tspan fill="#D97757">✻</tspan> <tspan fill="#E6E8EE" font-weight="700">Claude Code</tspan> <tspan fill="#6B7280">· jigeum harness · skills 70 · agents 15+</tspan></text>
+<text x="48" y="132" class="l1"><tspan fill="#E8622A">✻</tspan> <tspan fill="#E6E8EE" font-weight="700">Claude Code</tspan> <tspan fill="#6B7280">· jigeum harness · skills 70 · agents 15+</tspan></text>
 <clipPath id="c2"><rect x="40" y="164" height="34" width="0"/></clipPath>
 <rect x="32" y="160" width="936" height="40" rx="8" fill="#ffffff" fill-opacity="0.04" class="l2"/>
 <text x="48" y="186" clip-path="url(#c2)" class="l2"><tspan fill="#9AA1AE">&gt;</tspan> <tspan fill="#F3F4F6">원청 서식 3종을 온톨로지로 묶고, 점검 보고서 초안까지 써줘</tspan></text>
