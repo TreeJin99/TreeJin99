@@ -97,14 +97,6 @@
 **Test**<br/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/> <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5"/> <img src="https://img.shields.io/badge/mockK-7F52FF?style=for-the-badge" alt="mockK"/>
 
----|---|
-| **AI · Agent** | <img src="https://skillicons.dev/icons?i=python,fastapi&theme=light" height="32"/> &nbsp; Claude · Gemini · GPT API · 상태머신 에이전트 · pg-boss 작업 큐 · SSE · MCP |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind&theme=light" height="32"/> &nbsp; Next.js 16 · React 19 · Tailwind v4 · shadcn · FSD |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,spring,supabase,postgres,mysql&theme=light" height="32"/> &nbsp; NestJS · Spring(Kotlin) · Supabase RLS · TypeORM |
-| **Infra · DevOps** | <img src="https://skillicons.dev/icons?i=gcp,vercel,docker,githubactions&theme=light" height="32"/> &nbsp; Cloud Run · Vercel · Turborepo · GitHub Actions |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=light" height="32"/> &nbsp; Jetpack Compose · MVVM · Hilt · Coroutines · Flow · Retrofit2 |
-| **Test** | <img src="https://skillicons.dev/icons?i=jest&theme=light" height="32"/> &nbsp; Jest · JUnit5 · mockK · Espresso · Playwright |
-
 ---
 
 ### Experience
