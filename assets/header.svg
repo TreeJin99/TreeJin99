@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Woojin Nam · AI Agent and Ontology">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0F17"/><stop offset="1" stop-color="#17121A"/></linearGradient>
+<radialGradient id="glow" cx="0.75" cy="0.5" r="0.45"><stop offset="0" stop-color="#D97757" stop-opacity="0.22"/><stop offset="1" stop-color="#D97757" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" fill-opacity="0.05"/></pattern>
+</defs>
+<style>
+.e{stroke:#ffffff;stroke-opacity:.14;stroke-width:1.4;fill:none}
+.f{stroke:#D97757;stroke-width:2;fill:none;stroke-dasharray:10 190;stroke-linecap:round;animation:flow 3.2s linear infinite}
+.n{animation:pulse 3.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+.lbl{font-family:Pretendard, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Segoe UI', sans-serif;font-size:15px;font-weight:600;fill:#E6E8EE}
+.name{font-family:Pretendard, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Segoe UI', sans-serif;font-size:56px;font-weight:800;fill:#fff;letter-spacing:-1.5px}
+.ko{font-family:Pretendard, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Segoe UI', sans-serif;font-size:24px;font-weight:600;fill:#C9CDD6}
+.tag{font-family:Pretendard, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Segoe UI', sans-serif;font-size:17px;fill:#9AA1AE}
+.chip{font-family:'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'D2Coding', monospace;font-size:13px;fill:#D97757}
+.fade{animation:in 1.2s ease-out both}
+@keyframes flow{from{stroke-dashoffset:200}to{stroke-dashoffset:0}}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.12)}}
+@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.f,.n,.fade{animation:none}}
+</style>
+<rect width="1200" height="380" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="380" rx="18" fill="url(#dots)"/>
+<rect width="1200" height="380" rx="18" fill="url(#glow)"/>
+<path class="e" d="M760 80 L900 190"/>
+<path class="f" d="M760 80 L900 190" pathLength="200" style="animation-delay:-0.00s"/>
+<path class="e" d="M1050 85 L900 190"/>
+<path class="f" d="M1050 85 L900 190" pathLength="200" style="animation-delay:-0.53s"/>
+<path class="e" d="M1110 250 L900 190"/>
+<path class="f" d="M1110 250 L900 190" pathLength="200" style="animation-delay:-1.06s"/>
+<path class="e" d="M900 190 L720 285"/>
+<path class="f" d="M900 190 L720 285" pathLength="200" style="animation-delay:-1.59s"/>
+<path class="e" d="M720 285 L960 325"/>
+<path class="f" d="M720 285 L960 325" pathLength="200" style="animation-delay:-2.12s"/>
+<path class="e" d="M1050 85 L1110 250"/>
+<path class="f" d="M1050 85 L1110 250" pathLength="200" style="animation-delay:-2.65s"/>
+<path class="e" d="M760 80 L1050 85"/>
+<path class="f" d="M760 80 L1050 85" pathLength="200" style="animation-delay:-3.18s"/>
+<path class="e" d="M1110 250 L960 325"/>
+<path class="f" d="M1110 250 L960 325" pathLength="200" style="animation-delay:-3.71s"/>
+<path class="e" d="M1150 150 L1110 250"/>
+<path class="f" d="M1150 150 L1110 250" pathLength="200" style="animation-delay:-4.24s"/>
+<path class="e" d="M640 150 L760 80"/>
+<path class="f" d="M640 150 L760 80" pathLength="200" style="animation-delay:-4.77s"/>
+<path class="e" d="M1000 30 L1050 85"/>
+<path class="f" d="M1000 30 L1050 85" pathLength="200" style="animation-delay:-5.30s"/>
+<path class="e" d="M640 150 L720 285"/>
+<path class="f" d="M640 150 L720 285" pathLength="200" style="animation-delay:-5.83s"/>
+<g class="n" style="animation-delay:-0.0s">
+<circle cx="900" cy="190" r="40" fill="#D97757" fill-opacity="0.10"/>
+<circle cx="900" cy="190" r="30" fill="#0E131C" stroke="#D97757" stroke-width="2"/>
+</g>
+<text class="lbl" x="900" y="195" text-anchor="middle">회사</text>
+<g class="n" style="animation-delay:-0.4s">
+<circle cx="760" cy="80" r="32" fill="#7DD3FC" fill-opacity="0.10"/>
+<circle cx="760" cy="80" r="22" fill="#0E131C" stroke="#7DD3FC" stroke-width="2"/>
+</g>
+<text class="lbl" x="760" y="85" text-anchor="middle">양식</text>
+<g class="n" style="animation-delay:-0.8s">
+<circle cx="1050" cy="85" r="32" fill="#A5B4FC" fill-opacity="0.10"/>
+<circle cx="1050" cy="85" r="22" fill="#0E131C" stroke="#A5B4FC" stroke-width="2"/>
+</g>
+<text class="lbl" x="1050" y="90" text-anchor="middle">규칙</text>
+<g class="n" style="animation-delay:-1.2s">
+<circle cx="1110" cy="250" r="32" fill="#86EFAC" fill-opacity="0.10"/>
+<circle cx="1110" cy="250" r="22" fill="#0E131C" stroke="#86EFAC" stroke-width="2"/>
+</g>
+<text class="lbl" x="1110" y="255" text-anchor="middle">지식</text>
+<g class="n" style="animation-delay:-1.6s">
+<circle cx="720" cy="285" r="34" fill="#FCD34D" fill-opacity="0.10"/>
+<circle cx="720" cy="285" r="24" fill="#0E131C" stroke="#FCD34D" stroke-width="2"/>
+</g>
+<text class="lbl" x="720" y="290" text-anchor="middle">AI</text>
+<g class="n" style="animation-delay:-2.0s">
+<circle cx="960" cy="325" r="32" fill="#F9A8D4" fill-opacity="0.10"/>
+<circle cx="960" cy="325" r="22" fill="#0E131C" stroke="#F9A8D4" stroke-width="2"/>
+</g>
+<text class="lbl" x="960" y="330" text-anchor="middle">서류</text>
+<g class="n" style="animation-delay:-2.4s">
+<circle cx="1150" cy="150" r="16" fill="#86EFAC" fill-opacity="0.10"/>
+<circle cx="1150" cy="150" r="6" fill="#0E131C" stroke="#86EFAC" stroke-width="2"/>
+</g>
+<g class="n" style="animation-delay:-2.8s">
+<circle cx="640" cy="150" r="16" fill="#7DD3FC" fill-opacity="0.10"/>
+<circle cx="640" cy="150" r="6" fill="#0E131C" stroke="#7DD3FC" stroke-width="2"/>
+</g>
+<g class="n" style="animation-delay:-3.2s">
+<circle cx="1000" cy="30" r="15" fill="#A5B4FC" fill-opacity="0.10"/>
+<circle cx="1000" cy="30" r="5" fill="#0E131C" stroke="#A5B4FC" stroke-width="2"/>
+</g>
+<g class="fade">
+<text class="chip" x="64" y="92">● founder @ jigeum.lab · busan</text>
+<text class="name" x="62" y="170">Woojin Nam</text>
+<text class="ko" x="64" y="214">AI Agent · Ontology Engineer</text>
+<text class="tag" x="64" y="262">회사 머릿속 규칙을 온톨로지로 구조화하고,</text>
+<text class="tag" x="64" y="290">그 규칙대로 일하는 AI Agent를 만듭니다.</text>
+</g>
+</svg>
