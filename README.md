@@ -28,7 +28,7 @@ AI Agent와 온톨로지로 **회사의 일하는 규칙을 구조화하고, 그
 
 | 기간 | 역할 |
 |---|---|
-| 2024.06 ~ | **지금.lab 대표** · AI SaaS 개발 · 정부지원사업 컨설팅 |
+| 2024.06 ~ | **지금.lab 대표** · AI SaaS 개발 |
 | 2023.05 ~ 2024.06 | **For:e Product Owner** · 국가 연구과제 메인 담당 |
 | 현재 | **GDG Busan Organizer** · GDG Cloud Busan · GDSC Leader |
 
@@ -44,12 +44,12 @@ AI Agent와 온톨로지로 **회사의 일하는 규칙을 구조화하고, 그
 - 상태머신 에이전트 · LLM 어댑터 · 양식/규칙/지식 3층 · 자동 검증 → 서명 → 내보내기 · 자체 HWPX 엔진
 - **유료 운영 중** · 월 LLM API 호출 **30,000+** · 소방 점검업체 법정서식 도입
 
-#### [써포핏 Suppofit](https://www.suppofit.com) · 정부지원사업 알림 SaaS
+#### [써포핏 Suppofit](https://www.suppofit.com) · 보육기업 관리 CRM SaaS
 
 <img src="assets/suppofit.jpg" alt="써포핏 웹·모바일 화면" width="100%"/>
 
-전국 기관 공고를 매일 수집해 LLM으로 필드를 뽑고, 기업 프로필과 매칭해 알림을 보낸다.
-- 크롤러 어댑터 → LLM 필드 추출 → 매칭 → 알림 · Next.js + NestJS 모노레포 · GitHub Actions 크론
+창업보육 운영사가 입주·보육기업을 한곳에서 관리하는 CRM. 전국 기관의 지원사업 공고를 매일 수집해 LLM으로 정리하고, 각 보육기업에 맞는 공고를 매칭해 알려준다.
+- 보육기업 CRM · 공고 수집 → LLM 필드 추출 → 기업별 매칭 → 알림 · Next.js + NestJS 모노레포 · GitHub Actions 크론
 - **운영 중** · 수집 기관 **672곳** · 누적 공고 **5,915건** (2026-09 기준)
 
 #### [Phase On](https://github.com/TreeJin99/phaseon-retrospective) · 프로젝트 관리 · 협업 웹앱 · 2024 ~ 2026 (종료)
