@@ -50,7 +50,7 @@ AI Agent와 온톨로지로 **회사의 일하는 규칙을 구조화하고, 그
 
 | Project | What it is | Outcome |
 |---|---|---|
-| <a href="https://github.com/TreeJin99/phaseon-retrospective"><b>Phase On</b></a><br/>2024 ~ 2026 | 프로젝트 관리 · 협업 웹앱. 런칭 3개월 만에 MAU **5,000+**를 넘겼지만 비즈니스 모델로 잇지 못해 접었다. 사용자 수와 매출은 다른 지표라는 걸 배웠고, 이후 PlanDoc을 돈을 내는 업무로 피보팅했다. | MAU **5,000+**<br/>종료 · [회고](https://github.com/TreeJin99/phaseon-retrospective) |
+| <a href="https://github.com/TreeJin99/phaseon-retrospective"><b>Phase On</b></a><br/>2024 ~ 2026 | 프로젝트 관리 · 협업 웹앱. 런칭 3개월 만에 MAU <b>5,000+</b>를 넘겼지만 비즈니스 모델로 잇지 못해 접었다. 사용자 수와 매출은 다른 지표라는 걸 배웠고, 이후 PlanDoc을 돈을 내는 업무로 피보팅했다. | MAU **5,000+**<br/>종료 · [회고](https://github.com/TreeJin99/phaseon-retrospective) |
 | **OCR 연구**<br/>2023 | OCR 연구 논문 · For:e 재직 중 국가 연구과제 메인 담당 | 한국멀티미디어학회 논문 우수상 |
 
 <sub>대부분의 코드는 고객 계약상 비공개입니다. 아키텍처와 의사결정은 쇼케이스 레포에 정리했습니다.</sub>
