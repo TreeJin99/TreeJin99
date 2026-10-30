@@ -3,13 +3,17 @@
 </p>
 
 <p align="center">
-  <a href="https://jigeum.info"><img src="https://img.shields.io/badge/jigeum.info-1F1A17?style=for-the-badge&logo=googlechrome&logoColor=white" alt="jigeum.info"/></a> <a href="mailto:jigeumlab@gmail.com"><img src="https://img.shields.io/badge/Email-E8622A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://www.suppofit.com"><img src="https://img.shields.io/badge/Suppofit-10B981?style=for-the-badge&logo=rocket&logoColor=white" alt="Suppofit"/></a> <img src="https://komarev.com/ghpvc/?username=TreeJin99&style=for-the-badge&color=C4460F&label=PROFILE+VIEWS" alt="profile views"/>
+  <a href="https://jigeum.info"><img src="https://img.shields.io/badge/%EC%A7%80%EA%B8%88%EB%9E%A9-jigeum.info-E8622A?style=for-the-badge&labelColor=1F1A17" alt="지금랩"/></a> <a href="https://www.suppofit.com"><img src="https://img.shields.io/badge/%EC%8D%A8%ED%8F%AC%ED%95%8F-suppofit.com-C4460F?style=for-the-badge&labelColor=1F1A17" alt="써포핏"/></a> <a href="https://plandoc.kr"><img src="https://img.shields.io/badge/%ED%94%8C%EB%9E%9C%EB%8F%85-plandoc.kr-D4561C?style=for-the-badge&labelColor=1F1A17" alt="플랜독"/></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SaaS-4%20live-E8622A?style=flat-square" alt="SaaS"/> <img src="https://img.shields.io/badge/Client%20web-6%20live-C4460F?style=flat-square" alt="Client web"/> <img src="https://img.shields.io/badge/%EC%A0%95%EB%B6%80%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85-7%EA%B1%B4%20%EC%88%98%EC%A3%BC-F08A4B?style=flat-square" alt="정부지원사업"/> <img src="https://img.shields.io/badge/%EC%88%98%EC%83%81-10%ED%9A%8C-B23E0D?style=flat-square" alt="수상"/> <img src="https://img.shields.io/badge/%EA%B0%95%EC%97%B0%C2%B7%EA%B5%90%EC%9C%A1-21%ED%9A%8C-D4561C?style=flat-square" alt="강연·교육"/>
 </p>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TreeJin99&style=flat-square&color=E8622A&label=profile+views" alt="profile views"/>
+</p>
 ---
 
 ## About
